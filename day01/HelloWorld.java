@@ -1,5 +1,6 @@
 // 고쳐봅시다 ^^
-// ㅁㄴㅇ ㄴㅇㅁㄴㅇㅁㅇㄴㄴㅁ
+// 집에서 고쳐 보아요.
+
 public class HelloWorld {
 
  public static void main(String args[]) {
