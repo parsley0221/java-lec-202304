@@ -1,5 +1,6 @@
 // 고쳐봅시다 ^^
 // 집에서 고쳐 보아요.
+// 집에서 고치기 2
 
 public class HelloWorld {
 
