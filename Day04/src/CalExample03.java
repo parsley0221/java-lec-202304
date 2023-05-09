@@ -45,7 +45,7 @@ public class CalExample03 {
 		// false ^ ture || false && ture;
 		boolean result9 = result5 ^ (result6 || result7) && true;
 		// false ^ (ture || false) && ture;
-		
+			
 		
 		
 		
