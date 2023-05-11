@@ -79,14 +79,14 @@ public class CalExample03 {
 		System.out.println("똑같이 나눠가지고 남은 색연필수 = " + remainColorpen);
 		
 		
-		int year = 2020;
+		int year = 1904;
 		int a = 4;
 		int b = 100;
 		int c = 400;
 		
-		boolean leapYear = year % a || year % b || year % c;
+		boolean leapYear = (year % b == 0 ^ year % a == 0) || year % c == 0;
 		
-		System.out.println(leapYear);
+				System.out.println(leapYear);
 		
 		
 		
